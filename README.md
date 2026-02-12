@@ -33,7 +33,7 @@
 
 ```
 AI_HomeMatch/
-├── frontend/          # React + Vite (포트 5173)
+├── frontend/         # React + Vite (포트 5173)
 ├── backend/          # Spring Boot (포트 8080)
 ├── core/             # Python FastAPI (포트 8000)
 │   ├── RAG/          # 계약서 RAG·분석 API (LangChain, ChromaDB, Groq)
