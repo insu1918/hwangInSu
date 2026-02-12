@@ -1,8 +1,4 @@
-# hwangInSu
-
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&section=header&text=IngSu's%20GitHub&fontSize=50&color=46BEFF&fontColor=0F0606)
-
-# AI_HomeMatch (주거 계약 의사결정 보조 플랫폼)
+# Home`Scan (주거 계약 의사결정 보조 플랫폼)
 
 전·월세 계약을 앞둔 사용자를 위한 **등기부등본 분석**, **계약서 특약 점검**, **AI 챗봇**, **입주·퇴실 관리**를 제공하는 웹 플랫폼입니다.
 
